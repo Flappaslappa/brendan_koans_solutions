@@ -3,6 +3,7 @@
 
 require 'rake/clean'
 require 'rake/testtask'
+require 'pry'
 
 task :default => :test
 
